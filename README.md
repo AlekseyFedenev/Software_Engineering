@@ -33,7 +33,7 @@ x = ''
 print(bool(x))
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema21.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema21.png)
 ## Вывод
 Таким образом, программа преобразует значение x в булевый тип bool. А так как объявлена пустое значение Х, то это будет преобразовано в False. 
 
@@ -47,7 +47,7 @@ x = '1'; y = '2'; z = '3'
 print(x, y, z)
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema22.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema22.png)
 ## Вывод
 Присвоили значения трем строковым переменным через точку с запятой и вывели их на консоль.
 
@@ -60,7 +60,7 @@ x = input('x: ')
 print(int(x))
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema23.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema23.png)
 ## Вывод
 input- нужен для того, чтобы ввести значение через консоль. Int перед переменной Х в выводе превращает переменную в целочисленный тип.
 
@@ -72,7 +72,7 @@ x = 'Yxx!'
 print(x * 4)
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema24.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema24.png)
 ## Вывод
 С помощью команды * можно продублировать значение переменной заданное количество раз.
 
@@ -84,7 +84,7 @@ x = int('20'); y = str('апреля'); z = int('2024')
 print(f"Сегодня {x} {y} {z} \nВсего хорошего!")
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema25.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema25.png)
 ## Вывод
 f-строки позволяют создавать строки, которые включают в себя значения переменных и выражений, которые вычисляются во время выполнения программы.
 
@@ -96,7 +96,7 @@ x = 'Hello World'
 print(x[:5], 'my', x[5:])
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema26.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema26.png)
 ## Вывод
 x[:5] – обозначает извлечение среза первых пяти элементов переменной X, соответственно x[5:] – последних пяти элементов. 
 
@@ -108,7 +108,7 @@ x = 'Hello World'
 print(len(x))
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema27.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema27.png)
 ## Вывод
 len – помогает узнать длину переменной
 
@@ -120,7 +120,7 @@ x = 'Hello World'
 print(x.lower())
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema28.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema28.png)
 ## Вывод
 C помощью метода lower() – можно перевести все символы переменной в нижний регистр
 
@@ -133,7 +133,7 @@ x = 9
 print(f'Логарифм числа {x} равен ', log(x))
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/tema-2/pic/tema29.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema29.png)
 ## Вывод
 С помощью подключение дополнительной библиотеки math можно при помощи метода log() узнать логарифм переменной.
 
@@ -145,6 +145,6 @@ x = 'Уррррррра!'
 print(x.count('p'))
 ```
 ### Результат
-![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/main/pic/tema210.png)
+![Меню](https://github.com/AlekseyFedenev/Software_Engineering/blob/Tema2/pic/tema210.png)
 ## Вывод
 C помощью метода count() – можно посчитать количество. 
