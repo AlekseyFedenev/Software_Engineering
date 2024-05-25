@@ -1,2 +1,0 @@
-x = ''
-print(bool(x))
