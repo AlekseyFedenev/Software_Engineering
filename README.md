@@ -1,26 +1,16 @@
-# Software_Engineering
-#Базовые операции языка Python
-Отчет по Теме выполнил:
-- Феденёв Алексей Сергеевич
-- ИНО ОЗБ ПОАС-22-2
+# This is a sample Python script.
 
-| Задание | Сам_раб |
-| ------ | ------ |
-| Задание 1 | + |
-| Задание 2 | + | 
-| Задание 3 | + |
-| Задание 4 | + |
-| Задание 5 | + |
-| Задание 6 | + |
-| Задание 7 | + |
-| Задание 8 | + |
-| Задание 9 | + |
-| Задание 10 | + |
-
-знак "+" - задание выполнено; знак "-" - задание не выполнено;
-
-Работу проверили: Панов Михаил Александрович
-(и.о. заведующего кафедрой информационных технологий и статистики,
-кандидат экономических наук, доцент.)
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
